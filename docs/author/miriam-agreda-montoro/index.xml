@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miriam Ágreda Montoro | Ciberseguridad y Ética Digital</title>
+    <link>https://proyectociberseguridadyeticadigital.github.io/web/author/miriam-agreda-montoro/</link>
+      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/web/author/miriam-agreda-montoro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Miriam Ágreda Montoro</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language>
+    <image>
+      <url>https://proyectociberseguridadyeticadigital.github.io/web/author/miriam-agreda-montoro/avatar_hu_bc0370ca9251dd50.jpeg</url>
+      <title>Miriam Ágreda Montoro</title>
+      <link>https://proyectociberseguridadyeticadigital.github.io/web/author/miriam-agreda-montoro/</link>
+    </image>
+    
+  </channel>
+</rss>

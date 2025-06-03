@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtual Training | Ciberseguridad y Ética Digital</title>
+    <link>https://proyectociberseguridadyeticadigital.github.io/web/tag/virtual-training/</link>
+      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/web/tag/virtual-training/index.xml" rel="self" type="application/rss+xml" />
+    <description>Virtual Training</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://proyectociberseguridadyeticadigital.github.io/web/media/icon_hu_7c87d9bf6dadd001.png</url>
+      <title>Virtual Training</title>
+      <link>https://proyectociberseguridadyeticadigital.github.io/web/tag/virtual-training/</link>
+    </image>
+    
+    <item>
+      <title>Plan for the Continuity of Non-Presential Education in Six Peruvian Universities during COVID-19</title>
+      <link>https://proyectociberseguridadyeticadigital.github.io/web/publication/perez22/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://proyectociberseguridadyeticadigital.github.io/web/publication/perez22/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

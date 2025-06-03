@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Mora-Jaureguialde | Ciberseguridad y Ética Digital</title>
+    <link>https://proyectociberseguridadyeticadigital.github.io/web/author/b.-mora-jaureguialde/</link>
+      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/web/author/b.-mora-jaureguialde/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Mora-Jaureguialde</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://proyectociberseguridadyeticadigital.github.io/web/media/icon_hu_7c87d9bf6dadd001.png</url>
+      <title>B. Mora-Jaureguialde</title>
+      <link>https://proyectociberseguridadyeticadigital.github.io/web/author/b.-mora-jaureguialde/</link>
+    </image>
+    
+    <item>
+      <title>Límites y posibilidades en el proceso de virtualización tecno-pedagógica de universidades peruanas</title>
+      <link>https://proyectociberseguridadyeticadigital.github.io/web/publication/lavandera23/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://proyectociberseguridadyeticadigital.github.io/web/publication/lavandera23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plan for the Continuity of Non-Presential Education in Six Peruvian Universities during COVID-19</title>
+      <link>https://proyectociberseguridadyeticadigital.github.io/web/publication/perez22/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://proyectociberseguridadyeticadigital.github.io/web/publication/perez22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Methodology with Public Universities in Peruduring the Pandemic ¬-Continuity of Virtual/OnlineTeaching and Learning</title>
+      <link>https://proyectociberseguridadyeticadigital.github.io/web/publication/martin21b/</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://proyectociberseguridadyeticadigital.github.io/web/publication/martin21b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
