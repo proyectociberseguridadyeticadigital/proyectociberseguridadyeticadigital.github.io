@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chapter | Ciberseguridad y Ética Digital</title>
-    <link>https://proyectociberseguridadyeticadigital.github.io/web/publication-type/chapter/</link>
-      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/web/publication-type/chapter/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://proyectociberseguridadyeticadigital.github.io/publication-type/chapter/</link>
+      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/publication-type/chapter/index.xml" rel="self" type="application/rss+xml" />
     <description>Chapter</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://proyectociberseguridadyeticadigital.github.io/web/media/icon_hu_7c87d9bf6dadd001.png</url>
+      <url>https://proyectociberseguridadyeticadigital.github.io/media/icon_hu_7c87d9bf6dadd001.png</url>
       <title>Chapter</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/web/publication-type/chapter/</link>
+      <link>https://proyectociberseguridadyeticadigital.github.io/publication-type/chapter/</link>
     </image>
     
     <item>
       <title>Metodología para enseñar y aprender programación mediante inteligencias múltiples y ChatGPT</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/web/publication/quesada24/</link>
+      <link>https://proyectociberseguridadyeticadigital.github.io/publication/quesada24/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://proyectociberseguridadyeticadigital.github.io/web/publication/quesada24/</guid>
+      <guid>https://proyectociberseguridadyeticadigital.github.io/publication/quesada24/</guid>
       <description></description>
     </item>
     

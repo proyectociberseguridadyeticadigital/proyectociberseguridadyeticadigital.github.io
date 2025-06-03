@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juan Martínez Moreno | Ciberseguridad y Ética Digital</title>
-    <link>https://proyectociberseguridadyeticadigital.github.io/web/author/juan-martinez-moreno/</link>
-      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/web/author/juan-martinez-moreno/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://proyectociberseguridadyeticadigital.github.io/author/juan-martinez-moreno/</link>
+      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/author/juan-martinez-moreno/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Martínez Moreno</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language>
     <image>
-      <url>https://proyectociberseguridadyeticadigital.github.io/web/author/juan-martinez-moreno/avatar_hu_8f30d7d15d3bb250.jpg</url>
+      <url>https://proyectociberseguridadyeticadigital.github.io/author/juan-martinez-moreno/avatar_hu_8f30d7d15d3bb250.jpg</url>
       <title>Juan Martínez Moreno</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/web/author/juan-martinez-moreno/</link>
+      <link>https://proyectociberseguridadyeticadigital.github.io/author/juan-martinez-moreno/</link>
     </image>
     
   </channel>

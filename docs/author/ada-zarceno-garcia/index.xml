@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ada Zarceño García | Ciberseguridad y Ética Digital</title>
-    <link>https://proyectociberseguridadyeticadigital.github.io/web/author/ada-zarceno-garcia/</link>
-      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/web/author/ada-zarceno-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://proyectociberseguridadyeticadigital.github.io/author/ada-zarceno-garcia/</link>
+      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/author/ada-zarceno-garcia/index.xml" rel="self" type="application/rss+xml" />
     <description>Ada Zarceño García</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language>
     <image>
-      <url>https://proyectociberseguridadyeticadigital.github.io/web/author/ada-zarceno-garcia/avatar_hu_b43eeba280751ea7.png</url>
+      <url>https://proyectociberseguridadyeticadigital.github.io/author/ada-zarceno-garcia/avatar_hu_b43eeba280751ea7.png</url>
       <title>Ada Zarceño García</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/web/author/ada-zarceno-garcia/</link>
+      <link>https://proyectociberseguridadyeticadigital.github.io/author/ada-zarceno-garcia/</link>
     </image>
     
   </channel>

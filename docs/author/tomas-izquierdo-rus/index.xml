@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tomás Izquierdo Rus | Ciberseguridad y Ética Digital</title>
-    <link>https://proyectociberseguridadyeticadigital.github.io/web/author/tomas-izquierdo-rus/</link>
-      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/web/author/tomas-izquierdo-rus/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://proyectociberseguridadyeticadigital.github.io/author/tomas-izquierdo-rus/</link>
+      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/author/tomas-izquierdo-rus/index.xml" rel="self" type="application/rss+xml" />
     <description>Tomás Izquierdo Rus</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language>
     <image>
-      <url>https://proyectociberseguridadyeticadigital.github.io/web/author/tomas-izquierdo-rus/avatar_hu_470cc4296809b5bd.jpeg</url>
+      <url>https://proyectociberseguridadyeticadigital.github.io/author/tomas-izquierdo-rus/avatar_hu_470cc4296809b5bd.jpeg</url>
       <title>Tomás Izquierdo Rus</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/web/author/tomas-izquierdo-rus/</link>
+      <link>https://proyectociberseguridadyeticadigital.github.io/author/tomas-izquierdo-rus/</link>
     </image>
     
   </channel>
