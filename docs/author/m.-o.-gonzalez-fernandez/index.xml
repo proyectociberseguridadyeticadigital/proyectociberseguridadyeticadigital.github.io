@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. O. González Fernández | Ciberseguridad y Ética Digital</title>
-    <link>https://proyectociberseguridadyeticadigital.github.io/author/m.-o.-gonzalez-fernandez/</link>
-      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/author/m.-o.-gonzalez-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/m.-o.-gonzalez-fernandez/</link>
+      <atom:link href="http://localhost:1313/author/m.-o.-gonzalez-fernandez/index.xml" rel="self" type="application/rss+xml" />
     <description>M. O. González Fernández</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://proyectociberseguridadyeticadigital.github.io/media/icon_hu_7c87d9bf6dadd001.png</url>
+      <url>http://localhost:1313/media/icon_hu_7c87d9bf6dadd001.png</url>
       <title>M. O. González Fernández</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/author/m.-o.-gonzalez-fernandez/</link>
+      <link>http://localhost:1313/author/m.-o.-gonzalez-fernandez/</link>
     </image>
     
     <item>
       <title>Las competencias digitales en el Prácticum: Estado de la cuestión</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/publication/gonzalez24/</link>
+      <link>http://localhost:1313/publication/gonzalez24/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://proyectociberseguridadyeticadigital.github.io/publication/gonzalez24/</guid>
+      <guid>http://localhost:1313/publication/gonzalez24/</guid>
       <description></description>
     </item>
     

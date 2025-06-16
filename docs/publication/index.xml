@@ -2,85 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publicaciones | Ciberseguridad y Ética Digital</title>
-    <link>https://proyectociberseguridadyeticadigital.github.io/publication/</link>
-      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication/</link>
+      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publicaciones</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Mon, 24 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://proyectociberseguridadyeticadigital.github.io/media/icon_hu_7c87d9bf6dadd001.png</url>
+      <url>http://localhost:1313/media/icon_hu_7c87d9bf6dadd001.png</url>
       <title>Publicaciones</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/publication/</link>
+      <link>http://localhost:1313/publication/</link>
     </image>
     
     <item>
+      <title>Metodología para enseñar y aprender programación mediante inteligencias múltiples y ChatGPT</title>
+      <link>http://localhost:1313/publication/ortiz25/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ortiz25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Las competencias digitales en el Prácticum: Estado de la cuestión</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/publication/gonzalez24/</link>
+      <link>http://localhost:1313/publication/gonzalez24/</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://proyectociberseguridadyeticadigital.github.io/publication/gonzalez24/</guid>
+      <guid>http://localhost:1313/publication/gonzalez24/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metodología para enseñar y aprender programación mediante inteligencias múltiples y ChatGPT</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/publication/quesada24/</link>
+      <link>http://localhost:1313/publication/quesada24/</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://proyectociberseguridadyeticadigital.github.io/publication/quesada24/</guid>
+      <guid>http://localhost:1313/publication/quesada24/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Límites y posibilidades en el proceso de virtualización tecno-pedagógica de universidades peruanas</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/publication/lavandera23/</link>
+      <link>http://localhost:1313/publication/lavandera23/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://proyectociberseguridadyeticadigital.github.io/publication/lavandera23/</guid>
+      <guid>http://localhost:1313/publication/lavandera23/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plan for the Continuity of Non-Presential Education in Six Peruvian Universities during COVID-19</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/publication/perez22/</link>
+      <link>http://localhost:1313/publication/perez22/</link>
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://proyectociberseguridadyeticadigital.github.io/publication/perez22/</guid>
+      <guid>http://localhost:1313/publication/perez22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inclusión de la competencia digital en territorios y contextos institucionales de países de América Latina y el Caribe</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/publication/martin21/</link>
+      <link>http://localhost:1313/publication/martin21/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://proyectociberseguridadyeticadigital.github.io/publication/martin21/</guid>
+      <guid>http://localhost:1313/publication/martin21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introducción. Formación en competencia digital: una respuesta al fortalecimiento de las instituciones públicas en países de América Latina y el Caribe</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/publication/martin21a/</link>
+      <link>http://localhost:1313/publication/martin21a/</link>
       <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://proyectociberseguridadyeticadigital.github.io/publication/martin21a/</guid>
+      <guid>http://localhost:1313/publication/martin21a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working Methodology with Public Universities in Peruduring the Pandemic ¬-Continuity of Virtual/OnlineTeaching and Learning</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/publication/martin21b/</link>
+      <link>http://localhost:1313/publication/martin21b/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://proyectociberseguridadyeticadigital.github.io/publication/martin21b/</guid>
+      <guid>http://localhost:1313/publication/martin21b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Las competencias digitales docentes en entornos universitarios basados en el Digcomp</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/publication/martin20/</link>
+      <link>http://localhost:1313/publication/martin20/</link>
       <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://proyectociberseguridadyeticadigital.github.io/publication/martin20/</guid>
+      <guid>http://localhost:1313/publication/martin20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Prácticas para la enseñanza y el aprendizaje de habilidades digitales en la educación superior: una revisión sistemática en la literatura</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/publication/spanhol20/</link>
+      <link>http://localhost:1313/publication/spanhol20/</link>
       <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://proyectociberseguridadyeticadigital.github.io/publication/spanhol20/</guid>
+      <guid>http://localhost:1313/publication/spanhol20/</guid>
       <description></description>
     </item>
     

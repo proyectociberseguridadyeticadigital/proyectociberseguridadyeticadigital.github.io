@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Técnicas De Enseñanza Y Evaluación | Ciberseguridad y Ética Digital</title>
+    <link>http://localhost:1313/tag/tecnicas-de-ensenanza-y-evaluacion/</link>
+      <atom:link href="http://localhost:1313/tag/tecnicas-de-ensenanza-y-evaluacion/index.xml" rel="self" type="application/rss+xml" />
+    <description>Técnicas De Enseñanza Y Evaluación</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7c87d9bf6dadd001.png</url>
+      <title>Técnicas De Enseñanza Y Evaluación</title>
+      <link>http://localhost:1313/tag/tecnicas-de-ensenanza-y-evaluacion/</link>
+    </image>
+    
+    <item>
+      <title>Metodología para enseñar y aprender programación mediante inteligencias múltiples y ChatGPT</title>
+      <link>http://localhost:1313/publication/ortiz25/</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ortiz25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

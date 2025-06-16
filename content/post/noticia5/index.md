@@ -43,7 +43,7 @@ programación (Francisco José Quesada Real)
 artificial: enseñanza del léxico (María Victoria
 Cantero Romero)
 10. El empoderamiento de los estudiantes a través de
-las tecnologías digitales (Rafael Villar Contreras)
+las tecnologías digitales (Rafael Villén Contreras)
 
 
 El libro puede descargarse de forma gratuita en la siguiente dirección: [https://octaedro.com/libro/la-competencia-digital-de-los-estudiantes-universitarios/](https://octaedro.com/libro/la-competencia-digital-de-los-estudiantes-universitarios/)

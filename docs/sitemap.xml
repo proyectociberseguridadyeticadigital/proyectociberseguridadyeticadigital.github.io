@@ -2,317 +2,346 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/admin/</loc>
+    <loc>http://localhost:1313/author/.et-al/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/authors/</loc>
+    <loc>http://localhost:1313/author/admin/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/post/noticia5/</loc>
+    <loc>http://localhost:1313/author/ana-m%C2%AA-ortiz-colon/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/post/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2025-06-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/post/noticia4/</loc>
+    <loc>http://localhost:1313/publication-type/book/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/competencia-digital/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/educacion/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/innovacion/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/ortiz25/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/noticia5/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/sociedad-del-conocimiento/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/tag/tecnicas-de-ensenanza-y-evaluacion/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-06-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/post/noticia4/</loc>
     <lastmod>2025-04-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/people/</loc>
+    <loc>http://localhost:1313/people/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/post/noticia3/</loc>
+    <loc>http://localhost:1313/post/noticia3/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/post/noticia2/</loc>
+    <loc>http://localhost:1313/post/noticia2/</loc>
     <lastmod>2024-10-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/post/noticia1/</loc>
+    <loc>http://localhost:1313/post/noticia1/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/publication-type/article-journal/</loc>
+    <loc>http://localhost:1313/publication-type/article-journal/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/competencia-digital/</loc>
+    <loc>http://localhost:1313/publication/gonzalez24/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/publication/gonzalez24/</loc>
+    <loc>http://localhost:1313/author/lourdes-perez-sanchez/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/lourdes-perez-sanchez/</loc>
+    <loc>http://localhost:1313/author/m.-o.-gonzalez-fernandez/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/m.-o.-gonzalez-fernandez/</loc>
+    <loc>http://localhost:1313/author/n.-sgreccia/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/n.-sgreccia/</loc>
+    <loc>http://localhost:1313/tag/practicum/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/practicum/</loc>
+    <loc>http://localhost:1313/tag/revision-sistematica/</loc>
     <lastmod>2024-06-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/publication/</loc>
-    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/publication_types/</loc>
-    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/revision-sistematica/</loc>
-    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tags/</loc>
-    <lastmod>2024-06-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/publication-type/chapter/</loc>
+    <loc>http://localhost:1313/publication-type/chapter/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/francisco-jose-quesada-real/</loc>
+    <loc>http://localhost:1313/author/francisco-jose-quesada-real/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/inteligencia-artificial/</loc>
+    <loc>http://localhost:1313/tag/inteligencia-artificial/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/inteligencias-multiples/</loc>
+    <loc>http://localhost:1313/tag/inteligencias-multiples/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/lina-garcia-cabrera/</loc>
+    <loc>http://localhost:1313/author/lina-garcia-cabrera/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/publication/quesada24/</loc>
+    <loc>http://localhost:1313/publication/quesada24/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/programacion/</loc>
+    <loc>http://localhost:1313/tag/programacion/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/america-latina/</loc>
+    <loc>http://localhost:1313/tag/america-latina/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/ana-martin-cuadrado/</loc>
+    <loc>http://localhost:1313/author/ana-martin-cuadrado/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/b.-mora-jaureguialde/</loc>
+    <loc>http://localhost:1313/author/b.-mora-jaureguialde/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/educacion-tecnologica/</loc>
+    <loc>http://localhost:1313/tag/educacion-tecnologica/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/ensenanza-a-distancia/</loc>
+    <loc>http://localhost:1313/tag/ensenanza-a-distancia/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/ensenanza-superior/</loc>
+    <loc>http://localhost:1313/tag/ensenanza-superior/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/publication/lavandera23/</loc>
+    <loc>http://localhost:1313/publication/lavandera23/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/s.-lavandera-ponce/</loc>
+    <loc>http://localhost:1313/author/s.-lavandera-ponce/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/tutoria/</loc>
+    <loc>http://localhost:1313/tag/tutoria/</loc>
     <lastmod>2023-07-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tour/</loc>
+    <loc>http://localhost:1313/tour/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/digital-competence/</loc>
+    <loc>http://localhost:1313/tag/digital-competence/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/higher-education-institutions/</loc>
+    <loc>http://localhost:1313/tag/higher-education-institutions/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/pandemic/</loc>
+    <loc>http://localhost:1313/tag/pandemic/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/publication/perez22/</loc>
+    <loc>http://localhost:1313/publication/perez22/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/techno-pedagogical-design/</loc>
+    <loc>http://localhost:1313/tag/techno-pedagogical-design/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/tutorial-support/</loc>
+    <loc>http://localhost:1313/tag/tutorial-support/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/virtual-training/</loc>
+    <loc>http://localhost:1313/tag/virtual-training/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/publication/martin21/</loc>
+    <loc>http://localhost:1313/publication/martin21/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/publication/martin21a/</loc>
+    <loc>http://localhost:1313/publication/martin21a/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/m.-alvarez/</loc>
+    <loc>http://localhost:1313/author/m.-alvarez/</loc>
     <lastmod>2021-12-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/c.-sanchez-romero/</loc>
+    <loc>http://localhost:1313/author/c.-sanchez-romero/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/covid-19/</loc>
+    <loc>http://localhost:1313/tag/covid-19/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/digital-divide/</loc>
+    <loc>http://localhost:1313/tag/digital-divide/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/distance-learning/</loc>
+    <loc>http://localhost:1313/tag/distance-learning/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/higher-education/</loc>
+    <loc>http://localhost:1313/tag/higher-education/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/teacher-mentoring/</loc>
+    <loc>http://localhost:1313/tag/teacher-mentoring/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/teacher-training/</loc>
+    <loc>http://localhost:1313/tag/teacher-training/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/publication/martin21b/</loc>
+    <loc>http://localhost:1313/publication/martin21b/</loc>
     <lastmod>2021-07-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/competencias-digitales/</loc>
+    <loc>http://localhost:1313/tag/competencias-digitales/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/formacion-docente/</loc>
+    <loc>http://localhost:1313/tag/formacion-docente/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/publication/martin20/</loc>
+    <loc>http://localhost:1313/publication/martin20/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/m.-jordano/</loc>
+    <loc>http://localhost:1313/author/m.-jordano/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/microcredenciales/</loc>
+    <loc>http://localhost:1313/tag/microcredenciales/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/nanocursos/</loc>
+    <loc>http://localhost:1313/tag/nanocursos/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/tag/trabajo-docente/</loc>
+    <loc>http://localhost:1313/tag/trabajo-docente/</loc>
     <lastmod>2020-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/f.-j.-spanhol/</loc>
+    <loc>http://localhost:1313/author/f.-j.-spanhol/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/n.-l.-pereira/</loc>
+    <loc>http://localhost:1313/author/n.-l.-pereira/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/publication/spanhol20/</loc>
+    <loc>http://localhost:1313/publication/spanhol20/</loc>
     <lastmod>2020-05-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/admin/</loc>
+    <loc>http://localhost:1313/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/ada-zarceno-garcia/</loc>
+    <loc>http://localhost:1313/author/ada-zarceno-garcia/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/ana-m%C2%AA-ortiz-colon/</loc>
+    <loc>http://localhost:1313/author/andrea-luna-guillen/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/andrea-luna-guillen/</loc>
+    <loc>http://localhost:1313/author/audin-gamboa-suarez/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/audin-gamboa-suarez/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/categories/</loc>
+    <loc>http://localhost:1313/author/javier-rodriguez-moreno/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/javier-rodriguez-moreno/</loc>
+    <loc>http://localhost:1313/author/jose-m.-rodriguez-ferrer/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/jose-m.-rodriguez-ferrer/</loc>
+    <loc>http://localhost:1313/author/juan-martinez-moreno/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/juan-martinez-moreno/</loc>
+    <loc>http://localhost:1313/author/mauro-ocana-garzon/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/mauro-ocana-garzon/</loc>
+    <loc>http://localhost:1313/author/miriam-agreda-montoro/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/miriam-agreda-montoro/</loc>
+    <loc>http://localhost:1313/author/rafael-castellano-almagro/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/rafael-castellano-almagro/</loc>
+    <loc>http://localhost:1313/author/rafael-villen-contreras/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/rafael-villen-contreras/</loc>
+    <loc>http://localhost:1313/author/raul-prada-nunez/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/raul-prada-nunez/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://proyectociberseguridadyeticadigital.github.io/author/tomas-izquierdo-rus/</loc>
+    <loc>http://localhost:1313/author/tomas-izquierdo-rus/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

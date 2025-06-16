@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Educación Tecnológica | Ciberseguridad y Ética Digital</title>
-    <link>https://proyectociberseguridadyeticadigital.github.io/tag/educacion-tecnologica/</link>
-      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/tag/educacion-tecnologica/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/educacion-tecnologica/</link>
+      <atom:link href="http://localhost:1313/tag/educacion-tecnologica/index.xml" rel="self" type="application/rss+xml" />
     <description>Educación Tecnológica</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://proyectociberseguridadyeticadigital.github.io/media/icon_hu_7c87d9bf6dadd001.png</url>
+      <url>http://localhost:1313/media/icon_hu_7c87d9bf6dadd001.png</url>
       <title>Educación Tecnológica</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/tag/educacion-tecnologica/</link>
+      <link>http://localhost:1313/tag/educacion-tecnologica/</link>
     </image>
     
     <item>
       <title>Límites y posibilidades en el proceso de virtualización tecno-pedagógica de universidades peruanas</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/publication/lavandera23/</link>
+      <link>http://localhost:1313/publication/lavandera23/</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://proyectociberseguridadyeticadigital.github.io/publication/lavandera23/</guid>
+      <guid>http://localhost:1313/publication/lavandera23/</guid>
       <description></description>
     </item>
     

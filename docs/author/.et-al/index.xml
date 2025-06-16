@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.Et Al | Ciberseguridad y Ética Digital</title>
+    <link>http://localhost:1313/author/.et-al/</link>
+      <atom:link href="http://localhost:1313/author/.et-al/index.xml" rel="self" type="application/rss+xml" />
+    <description>.Et Al</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7c87d9bf6dadd001.png</url>
+      <title>.Et Al</title>
+      <link>http://localhost:1313/author/.et-al/</link>
+    </image>
+    
+  </channel>
+</rss>

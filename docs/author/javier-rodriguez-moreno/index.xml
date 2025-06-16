@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Javier Rodríguez Moreno | Ciberseguridad y Ética Digital</title>
-    <link>https://proyectociberseguridadyeticadigital.github.io/author/javier-rodriguez-moreno/</link>
-      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/author/javier-rodriguez-moreno/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/javier-rodriguez-moreno/</link>
+      <atom:link href="http://localhost:1313/author/javier-rodriguez-moreno/index.xml" rel="self" type="application/rss+xml" />
     <description>Javier Rodríguez Moreno</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language>
     <image>
-      <url>https://proyectociberseguridadyeticadigital.github.io/author/javier-rodriguez-moreno/avatar_hu_22ac58b1d23b93ae.jpeg</url>
+      <url>http://localhost:1313/author/javier-rodriguez-moreno/avatar_hu_22ac58b1d23b93ae.jpeg</url>
       <title>Javier Rodríguez Moreno</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/author/javier-rodriguez-moreno/</link>
+      <link>http://localhost:1313/author/javier-rodriguez-moreno/</link>
     </image>
     
   </channel>

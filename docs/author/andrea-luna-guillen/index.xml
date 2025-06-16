@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrea Luna Guillén | Ciberseguridad y Ética Digital</title>
-    <link>https://proyectociberseguridadyeticadigital.github.io/author/andrea-luna-guillen/</link>
-      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/author/andrea-luna-guillen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/andrea-luna-guillen/</link>
+      <atom:link href="http://localhost:1313/author/andrea-luna-guillen/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Luna Guillén</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language>
     <image>
-      <url>https://proyectociberseguridadyeticadigital.github.io/author/andrea-luna-guillen/avatar_hu_1a7a7d0a7d67aad0.jpeg</url>
+      <url>http://localhost:1313/author/andrea-luna-guillen/avatar_hu_1a7a7d0a7d67aad0.jpeg</url>
       <title>Andrea Luna Guillén</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/author/andrea-luna-guillen/</link>
+      <link>http://localhost:1313/author/andrea-luna-guillen/</link>
     </image>
     
   </channel>

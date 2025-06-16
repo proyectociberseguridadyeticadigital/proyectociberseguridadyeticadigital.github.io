@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Higher Education | Ciberseguridad y Ética Digital</title>
-    <link>https://proyectociberseguridadyeticadigital.github.io/tag/higher-education/</link>
-      <atom:link href="https://proyectociberseguridadyeticadigital.github.io/tag/higher-education/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/higher-education/</link>
+      <atom:link href="http://localhost:1313/tag/higher-education/index.xml" rel="self" type="application/rss+xml" />
     <description>Higher Education</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>es</language><lastBuildDate>Wed, 14 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://proyectociberseguridadyeticadigital.github.io/media/icon_hu_7c87d9bf6dadd001.png</url>
+      <url>http://localhost:1313/media/icon_hu_7c87d9bf6dadd001.png</url>
       <title>Higher Education</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/tag/higher-education/</link>
+      <link>http://localhost:1313/tag/higher-education/</link>
     </image>
     
     <item>
       <title>Working Methodology with Public Universities in Peruduring the Pandemic ¬-Continuity of Virtual/OnlineTeaching and Learning</title>
-      <link>https://proyectociberseguridadyeticadigital.github.io/publication/martin21b/</link>
+      <link>http://localhost:1313/publication/martin21b/</link>
       <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://proyectociberseguridadyeticadigital.github.io/publication/martin21b/</guid>
+      <guid>http://localhost:1313/publication/martin21b/</guid>
       <description></description>
     </item>
     
