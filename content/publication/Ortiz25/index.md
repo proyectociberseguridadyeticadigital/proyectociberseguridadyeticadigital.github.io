@@ -1,5 +1,5 @@
 ---
-title: "Metodología para enseñar y aprender programación mediante inteligencias múltiples y ChatGPT"
+title: "La competencia digital de los estudiantes universitarios. Una mirada desde las aulas"
 authors:
 - ao
 
@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["book"]
 
 # Publication name and optional abbreviated publication name.
-publication: "La competencia digital de los estudiantes universitarios. Una mirada desde las aulas, Octaedro"
+publication: "Octaedro"
 publication_short: ""
 
 tags:
