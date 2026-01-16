@@ -9,26 +9,26 @@ sections:
     content:
       title: |
         Ciberseguridad y <br> Ética Digital  en la Formación Docente
-      subtitle: '(PID2023-148867OB-I00)'
+      subtitle: "(PID2023-148867OB-I00)"
       image:
         filename: welcome.jpg
       text: |
         (PID2023-148867OB-I00)
-        <br>  
+        <br>
   - block: markdown
     content:
       title:
-      subtitle: ''
+      subtitle: ""
       text: |
         La capacitación en **ciberseguridad y ética digital** es esencial para que los docentes enseñen y actúen de forma segura y responsable en el entorno digital. Esto contribuye a una sociedad más competente y protegida.
 
-        Este proyecto de investigación busca fortalecer las competencias digitales del profesorado de primaria mediante un **simulador virtual basado en inteligencia artificial**. Para ello, se analizará el nivel actual de conocimiento y los hábitos digitales del profesorado a través de encuestas, entrevistas y grupos focales.
+        Este proyecto de investigación busca fortalecer las competencias digitales del profesorado mediante un **simulador virtual basado en inteligencia artificial**. Para ello, se analizará el nivel actual de conocimiento y los hábitos digitales del profesorado a través de encuestas, entrevistas y grupos focales.
 
         El objetivo es mejorar la seguridad digital, fomentar el comportamiento ético en línea y aportar al desarrollo económico mediante una fuerza laboral mejor preparada.
     design:
-      columns: '1'
+      columns: "1"
       # background:
-      #   image: 
+      #   image:
       #     filename: coders.jpg
       #     filters:
       #       brightness: 1
@@ -39,7 +39,7 @@ sections:
       # spacing:
       #   padding: ['20px', '0', '20px', '0']
       # css_class: fullscreen
-  
+
   - block: collection
     content:
       title: Últimas Noticias
@@ -48,26 +48,26 @@ sections:
       count: 5
       filters:
         # author: ''
-        category: ''
+        category: ""
         exclude_featured: false
-        publication_type: ''
-        tag: ''
+        publication_type: ""
+        tag: ""
       offset: 0
       order: desc
       page_type: post
     design:
       view: card
-      columns: '1'
-  
+      columns: "1"
+
   - block: markdown
     content:
       title:
-      subtitle: ''
+      subtitle: ""
       text:
     design:
-      columns: '1'
+      columns: "1"
       background:
-        image: 
+        image:
           filename: coders.jpg
           filters:
             brightness: 1
@@ -76,7 +76,7 @@ sections:
           size: cover
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ["20px", "0", "20px", "0"]
       css_class: fullscreen
 
   - block: collection
@@ -90,7 +90,7 @@ sections:
         # publication_type: 'article'
     design:
       view: citation
-      columns: '1'
+      columns: "1"
 
   - block: markdown
     content:
@@ -99,5 +99,5 @@ sections:
       text: |
         {{% cta cta_link="./people/" cta_text="Conoce al equipo →" %}}
     design:
-      columns: '1'
+      columns: "1"
 ---
