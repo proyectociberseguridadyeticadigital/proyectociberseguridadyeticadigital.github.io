@@ -1,0 +1,17 @@
+# Recursos del proyecto
+#
+# Para añadir un documento:
+#   1. Copia el fichero en la carpeta static/uploads/
+#   2. Añade una entrada a esta lista con sus datos
+#
+# Campos:
+#   title:       Nombre del documento (obligatorio)
+#   file:        Nombre del fichero dentro de static/uploads/ (obligatorio)
+#   description: Breve descripción (opcional)
+#   date:        Fecha en formato AAAA-MM-DD (opcional)
+#
+# Los documentos se muestran en el mismo orden en que aparecen aquí.
+
+- title: Consentimiento informado
+  file: consentimiento.pdf
+  description: Documento de consentimiento informado para participar en la investigación del proyecto.

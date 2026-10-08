@@ -1,0 +1,18 @@
+{{/* Lista de documentos definida en data/resources.yaml. Los ficheros están en static/uploads/ */}}
+{{- with site.Data.resources }}
+<div class="list-group mt-3">
+  {{- range . }}
+  {{- $ext := path.Ext .file | strings.TrimPrefix "." | upper }}
+  <a href="{{ printf "uploads/%s" .file | relURL }}" class="list-group-item list-group-item-action py-3" target="_blank" rel="noopener">
+    <div class="d-flex w-100 justify-content-between align-items-center">
+      <h5 class="mb-1">{{ .title }}</h5>
+      {{- with $ext }}<span class="badge badge-primary bg-primary">{{ . }}</span>{{ end }}
+    </div>
+    {{- with .description }}<p class="mb-1">{{ . }}</p>{{ end }}
+    {{- with .date }}<small class="text-muted">{{ time.Format "2 January 2006" . }}</small>{{ end }}
+  </a>
+  {{- end }}
+</div>
+{{- else }}
+<p>Todavía no hay recursos disponibles.</p>
+{{- end }}

@@ -93,15 +93,6 @@ sections:
       columns: "1"
 
   - block: markdown
-      content:
-        title:
-        subtitle:
-        text: |
-          {{% cta cta_link="./uploads/consentimiento.pdf" cta_text="Consentimiento informado →" %}}
-      design:
-        columns: "1"
-
-  - block: markdown
     content:
       title:
       subtitle:
