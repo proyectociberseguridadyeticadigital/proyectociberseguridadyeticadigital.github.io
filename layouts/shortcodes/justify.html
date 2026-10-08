@@ -1,0 +1,4 @@
+{{/* Justifica el texto contenido: {{< justify >}} ... {{< /justify >}} */}}
+<div class="text-justify">
+{{ .Inner | .Page.RenderString (dict "display" "block") }}
+</div>

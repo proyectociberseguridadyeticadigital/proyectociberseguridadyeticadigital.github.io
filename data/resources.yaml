@@ -4,9 +4,12 @@
 #   1. Copia el fichero en la carpeta static/uploads/
 #   2. Añade una entrada a esta lista con sus datos
 #
+# Para enlazar una página del sitio, usa "url" en lugar de "file".
+#
 # Campos:
 #   title:       Nombre del documento (obligatorio)
-#   file:        Nombre del fichero dentro de static/uploads/ (obligatorio)
+#   file:        Nombre del fichero dentro de static/uploads/
+#   url:         Ruta de una página del sitio (por ejemplo /privacidad/), en lugar de "file"
 #   description: Breve descripción (opcional)
 #   date:        Fecha en formato AAAA-MM-DD (opcional)
 #
@@ -17,5 +20,5 @@
   description: Documento de consentimiento informado para participar en la investigación del proyecto.
 
 - title: Política de Privacidad
-  file: politica-privacidad.pdf
+  url: /privacidad/
   description: Política de privacidad de UJA Cibersegura.
